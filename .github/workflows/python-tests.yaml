@@ -1,4 +1,4 @@
-name: Python Test Automation CI
+name: Python Test Automation
 
 on:
   push:
