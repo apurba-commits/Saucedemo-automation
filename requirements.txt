@@ -3,3 +3,5 @@ pytest
 pytest-html
 webdriver-manager
 pyyaml
+pytest
+pytest-html
